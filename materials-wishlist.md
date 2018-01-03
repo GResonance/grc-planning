@@ -31,5 +31,13 @@
    * Multimeter
    * Oscilloscope
  * Personal Computers & peripherals
-
+ 
+## General Supplies
+* Toilet Paper
+* Paper Towels
+* Tissues
+* Baby Wipes
+* First Aid Kit
+* White Vinegar
+* Hand Soap
 
