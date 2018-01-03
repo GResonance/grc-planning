@@ -32,4 +32,6 @@
    * Oscilloscope
  * Personal Computers & peripherals
 
-
+## Office Supplies
+* Dry erase board(s)
+* Cork board(s)
